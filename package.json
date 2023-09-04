@@ -1,0 +1,7 @@
+{
+  "name": "pnpm-filter-bug",
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0"
+}

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": "true",
   "scripts": {
-    "test": "echo test"
+    "test": "echo test test"
   },
   "dependencies": {
     "lodash": "4.17.21"
